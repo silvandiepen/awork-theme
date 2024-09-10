@@ -14,4 +14,4 @@ A theme in the colors of awork.
 - Click Reload to reload the Code
 - From the menu bar click: Code > Preferences > Color Theme > awork
 
-![awork theme preview](preview.png)
+![awork theme preview](https://github.com/silvandiepen/awork-theme/raw/master/preview.png)
