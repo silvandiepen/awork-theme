@@ -1,0 +1,21 @@
+{
+  "name": "awork-theme",
+  "displayName": "awork-theme",
+  "description": "Awork Dark Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Awork Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Awork Dark-color-theme.json"
+      }
+    ]
+  }
+}
