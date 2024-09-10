@@ -1,5 +1,8 @@
 # awork theme
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/sils.awork-dark.svg)](https://marketplace.visualstudio.com/items?itemName=sils.awork-dark)
+[![Downloads](https://img.shields.io/vscode-marketplace/r/sils.awork-dark.svg)](https://marketplace.visualstudio.com/items?itemName=sils.awork-dark)
+
 A theme in the colors of awork.
 
 [awork.com](https://www.awork.com)
@@ -14,4 +17,4 @@ A theme in the colors of awork.
 - Click Reload to reload the Code
 - From the menu bar click: Code > Preferences > Color Theme > awork
 
-![awork theme preview](https://github.com/silvandiepen/awork-theme/raw/master/preview.png)
+![awork theme preview](preview.png)
