@@ -2,7 +2,7 @@
   "name": "awork-dark",
   "displayName": "awork",
   "description": "awork Dark Theme",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "publisher": "sils",
   "engines": {
     "vscode": "^1.92.0"
