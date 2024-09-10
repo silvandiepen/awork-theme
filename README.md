@@ -1,7 +1,7 @@
 # awork theme
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/sils.awork-dark.svg)](https://marketplace.visualstudio.com/items?itemName=sils.awork-dark)
-[![Downloads](https://img.shields.io/vscode-marketplace/r/sils.awork-dark.svg)](https://marketplace.visualstudio.com/items?itemName=sils.awork-dark)
+[![Version](https://vsmarketplacebadge.apphb.com/version/sils.awork-dark.png)](https://marketplace.visualstudio.com/items?itemName=sils.awork-dark)
+[![Downloads](https://img.shields.io/vscode-marketplace/r/sils.awork-dark.png)](https://marketplace.visualstudio.com/items?itemName=sils.awork-dark)
 
 A theme in the colors of awork.
 
