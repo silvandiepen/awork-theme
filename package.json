@@ -1,21 +1,42 @@
 {
-  "name": "awork-theme",
-  "displayName": "awork-theme",
-  "description": "Awork Dark Theme",
-  "version": "0.0.1",
+  "name": "awork-dark",
+  "displayName": "awork",
+  "description": "awork Dark Theme",
+  "version": "0.0.5",
+  "publisher": "sils",
   "engines": {
     "vscode": "^1.93.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Light Theme",
+    "awork",
+    "Night Theme",
+    "awork Theme"
+  ],
+  "scripts": {
+    "build": "npx ts-node src/build.ts",
+    "package": "vsce package"
+  },
   "contributes": {
     "themes": [
       {
         "label": "Awork Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Awork Dark-color-theme.json"
+        "path": "./themes/theme-dark.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silvandiepen/awork-theme"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.4"
   }
 }

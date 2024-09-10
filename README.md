@@ -1,16 +1,17 @@
-# awork-theme README
+# awork theme
 
-## Working with Markdown
+A theme in the colors of awork.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+[awork.com](https://www.awork.com)
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-- Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+### Installation
 
-## For more information
+- Install Visual Studio Code
+- Launch Visual Studio Code
+- Choose Extensions from menu
+- Search for `awork`
+- Click Install to install it
+- Click Reload to reload the Code
+- From the menu bar click: Code > Preferences > Color Theme > awork
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+![awork theme preview](preview.png)
